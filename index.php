@@ -16,8 +16,6 @@
 
     </head>
     <body>
-
-
     
         <!-- El header cuenta con una imagen con el logo, 3 iconos con link de redes sociales
         y 1 imagen de fondo -->

@@ -1,6 +1,7 @@
 Te ves capaz de hacer un paso más ?. Crees que podrás cambiar los rectángulos
  para contenido ?. Te proponemos que añadas el siguiente:
 
+
 Logo
 Iconos redes sociales
 Fondo imagen en la cabecera
