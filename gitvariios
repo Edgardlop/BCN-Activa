@@ -1,8 +1,0 @@
-git version  : para ver la version de  git
-git init (una sola vez por repositorio )
-git status -s 
-git add nombredearchivo (manda los archivos a la parte temporal) 
-git add (prepara todos los archivos para el temporalgit log --online)
-git commit -m (para subir al repositorio)
-git log --online (historial de commit)
-git reset --hard (para volver a un  estado)
