@@ -1,9 +1,9 @@
 .cabecera{
-    padding-top: 100px;
+    padding-top: 20px;
     background-image: url("../img/fondo-head.jpg");
     background-repeat:no-repeat;
     background-size:cover;
-
+    
 }
 
 .contenedor{
@@ -19,9 +19,9 @@
     display: block;
     text-align: center;
     color:#b6f4fa;
-    font-size: 1rem;
+    font-size: 2rem;
     font-weight: 550;
-    padding: 1rem;
+    padding: 2rem;
     }
         
 .navegador a:hover{
@@ -32,3 +32,8 @@
     background-color: #2c2815;
 }
 
+.iconos{
+    color:#b6f4fa;
+    font-size: 3.5rem;
+  
+}
